@@ -35,7 +35,8 @@ The dataset was processed using **Python (Pandas, NumPy)** and visualized throug
 ---
 
 ## 📷 Dashboard Preview
-*(Attach your Power BI dashboard screenshot here)*  
+
+![Netflix Dashboard]([https://github.com/msha2302/Netflix_data_analysis/blob/main/dashboard_1.png])
 
 ---
 
