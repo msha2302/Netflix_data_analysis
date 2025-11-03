@@ -36,7 +36,10 @@ The dataset was processed using **Python (Pandas, NumPy)** and visualized throug
 
 ## 📷 Dashboard Preview
 
-![Netflix Dashboard]([https://github.com/msha2302/Netflix_data_analysis/blob/main/dashboard_1.png])
+![Netflix Dashboard](https://raw.githubusercontent.com/msha2302/Netflix_data_analysis/blob/main/dashboard_1.png)
+
+
+
 
 ---
 
