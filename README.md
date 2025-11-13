@@ -1,7 +1,7 @@
 # 🎬 Netflix Data Analysis
 
 This project explores and visualizes Netflix’s movie and TV show data to uncover insights into content distribution, ratings, genres, and trends over the years.  
-The dataset was processed using **Python (Pandas, NumPy)** and visualized through an **interactive Power BI dashboard**.
+The dataset was processed using **Python (Pandas, NumPy)** and visualized through an **interactive Power BI Report**.
 
 ---
 
@@ -10,7 +10,7 @@ The dataset was processed using **Python (Pandas, NumPy)** and visualized throug
 - **Tools Used:**  
   - 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn) for ETL and analysis  
   - 📘 Jupyter Notebook for data exploration and cleaning  
-  - 📈 Power BI for dashboard creation and storytelling  
+  - 📈 Power BI Desktop for Report creation and storytelling  
 
 ---
 
@@ -19,7 +19,7 @@ The dataset was processed using **Python (Pandas, NumPy)** and visualized throug
 2. **ETL Process:**  
    - Cleaned missing values and standardized columns using Pandas.  
    - Transformed categorical data for analysis.   
-3. **Dashboard Creation:**  
+3. **Report Creation:**  
    - Loaded the cleaned dataset into Power BI.  
    - Designed visuals for genre trends, content type distribution, top directors, and release year analysis.  
    - Added interactive filters for dynamic insights.  
@@ -34,7 +34,7 @@ The dataset was processed using **Python (Pandas, NumPy)** and visualized throug
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Report Preview
 **Overview:** 
 ![Netflix Dashboard](dashboard_1.png)
 **Movies:** 
@@ -49,4 +49,4 @@ The dataset was processed using **Python (Pandas, NumPy)** and visualized throug
 ## 📁 Files Included
 - `netflix_data_etl.ipynb` → Python notebook for data cleaning and transformation  
 - `cleaned_netflix_data.csv` → Processed dataset used in Power BI  
-- `netflix_dataanalysis.pbix` → Power BI dashboard file  
+- `netflix_dataanalysis.pbix` → Power BI report file  
